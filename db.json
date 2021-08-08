@@ -1,10 +1,10 @@
 {
   "profile": [
     {
-      "id": 1
-      "name": "ShSato4"
-      "blood": "AB"
-      "old": 26
+      "id": 1,
+      "name": "ShSato4",
+      "blood": "AB",
+      "old": 26,
       "sex": "man"
     }
   ]
