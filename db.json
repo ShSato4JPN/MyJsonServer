@@ -1,16 +1,34 @@
 {
-  "infomaation": [
-    "profile": {
-      "id": 1,
-      "name": "ShSato4",
-      "blood": "AB",
-      "old": 26,
-      "sex": "man"
-    },
-    "hobby": [
-      "skateboard",
-      "guitar",
-      "game"
+    "infomation": [
+        {
+            "id": 1,
+            "profile": {
+                "name": "ShSato4",
+                "blood": "AB",
+                "old": 26,
+                "sex": "man"
+            },
+            "interesting": {
+                "test": [
+                    "skateboard",
+                    "guitar",
+                    "game"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "profile": {
+                "name": "test",
+                "blood": "A",
+                "old": 10,
+                "sex": "man"
+            },
+            "interesting": {
+                "test": [
+                    "music"
+                ]
+            }
+        }
     ]
-  ] 
 }
