@@ -1,9 +1,16 @@
 {
-  "profile": {
-    "id": 1,
-    "name": "ShSato4",
-    "blood": "AB",
-    "old": 26,
-    "sex": "man"
-  }
+  "infomaation": [
+    "profile": {
+      "id": 1,
+      "name": "ShSato4",
+      "blood": "AB",
+      "old": 26,
+      "sex": "man"
+    },
+    "hobby": [
+      "skateboard",
+      "guitar",
+      "game"
+    ]
+  ] 
 }
