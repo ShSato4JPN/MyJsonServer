@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "profile": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "ShSato4"
+      "blood": "AB"
+      "old": 26
+      "sex": "man"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
